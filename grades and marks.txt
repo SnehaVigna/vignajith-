@@ -4,7 +4,8 @@ public class JavaExample
 {
     public static void main(String args[])
     {
-    	/* This program assumes that the student has 5 subjects,
+    	/* Name = Vignajith*/
+	/* This program assumes that the student has 5 subjects,
     	 * thats why I have created the array of size 5. You can
     	 * change this as per the requirement.
     	 */
